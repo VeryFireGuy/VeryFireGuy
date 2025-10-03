@@ -1,5 +1,8 @@
-## Hi there 👋
+## Welcome
+10th Grader, GIA Student<br/>15<br>He/Him<br/>GA<br/>Video Game Fan
 
+### Bio
+Aspring Game Dev<br/>Very Fire<br/>I will add more to this in the future.
 <!--
 **VeryFireGuy/VeryFireGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
